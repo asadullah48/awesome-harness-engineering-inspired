@@ -1,6 +1,6 @@
 # Share Kit
 
-**Ready-to-post copy for announcing this project. Replace `<repo-link>` once the repository is published.**
+**Ready-to-post copy for announcing this project.**
 
 > Keep claims honest: this is a documentation-first starter with one runnable skeleton. Update the copy as real examples ship.
 
@@ -28,7 +28,7 @@
 >
 > If you build agents, automation, or AI-powered products, I'd value your resources, critiques, and contributions.
 >
-> 🔗 <repo-link>
+> 🔗 https://github.com/asadullah48/awesome-harness-engineering-inspired
 >
 > #AgenticAI #HarnessEngineering #AIEngineering #Automation #OpenSource #LLM #MCP
 
@@ -43,11 +43,11 @@
 > ✅ Templates + a runnable starter harness
 >
 > Contributions welcome 🙌
-> 🔗 <repo-link>
+> 🔗 https://github.com/asadullah48/awesome-harness-engineering-inspired
 
 ## WhatsApp Status / One-Liner
 
-> Smart models need strong harnesses. New open knowledge hub on agentic AI engineering 👉 <repo-link>
+> Smart models need strong harnesses. New open knowledge hub on agentic AI engineering 👉 https://github.com/asadullah48/awesome-harness-engineering-inspired
 
 ## Posting Checklist
 
