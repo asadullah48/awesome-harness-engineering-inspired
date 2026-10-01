@@ -5,6 +5,8 @@
 This repository is a knowledge hub for **harness engineering** and **agentic AI applications**: curated resources, practical guides, and reusable frameworks that help builders turn capable models into reliable, modular, and accountable automation.
 
 > 🧭 **Who it's for:** AI engineers, technical founders, and automation teams moving from impressive demos to dependable delivery.
+>
+> 🔗 **Companion hub:** [Context Engineering Inspired](https://github.com/asadullah48/context-engineering-inspired) — the right evidence, within the right budget, for every agent step.
 
 ---
 
