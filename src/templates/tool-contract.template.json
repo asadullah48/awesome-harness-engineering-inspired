@@ -1,0 +1,31 @@
+{
+  "$comment": "Template: copy, rename, and fill in one file per tool. Replace every <placeholder>.",
+  "name": "<tool_name>",
+  "description": "<One sentence: what the tool does and when the agent should use it.>",
+  "scope": "read",
+  "requires_approval": false,
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "<arg_name>": { "type": "string", "description": "<What this argument means.>" }
+    },
+    "required": ["<arg_name>"],
+    "additionalProperties": false
+  },
+  "output_schema": {
+    "type": "object",
+    "properties": {
+      "result": { "type": "string" }
+    },
+    "required": ["result"]
+  },
+  "errors": [
+    { "code": "<ERROR_CODE>", "meaning": "<When it happens>", "retryable": false }
+  ],
+  "limits": {
+    "timeout_seconds": 30,
+    "max_calls_per_task": 5
+  },
+  "side_effects": "<None, or describe exactly what changes outside the harness.>",
+  "idempotent": true
+}
